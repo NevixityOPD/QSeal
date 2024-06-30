@@ -1,0 +1,17 @@
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/QSeal
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/QSeal.deps.json
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/QSeal.runtimeconfig.json
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/QSeal.dll
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/QSeal.pdb
+/home/nevixity/Documents/CSharp/QSeal/bin/Debug/net8.0/Spectre.Console.dll
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.csproj.AssemblyReference.cache
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.GeneratedMSBuildEditorConfig.editorconfig
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.AssemblyInfoInputs.cache
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.AssemblyInfo.cs
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.csproj.CoreCompileInputs.cache
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.csproj.CopyComplete
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.dll
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/refint/QSeal.dll
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.pdb
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/QSeal.genruntimeconfig.cache
+/home/nevixity/Documents/CSharp/QSeal/obj/Debug/net8.0/ref/QSeal.dll

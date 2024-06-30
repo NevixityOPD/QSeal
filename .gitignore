@@ -1,0 +1,12 @@
+obj/project.assets.json
+obj/project.nuget.cache
+obj/QSeal.csproj.nuget.dgspec.json
+obj/QSeal.csproj.nuget.g.props
+obj/QSeal.csproj.nuget.g.targets
+obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+obj/Debug/net8.0/QSeal.AssemblyInfo.cs
+obj/Debug/net8.0/QSeal.AssemblyInfoInputs.cache
+obj/Debug/net8.0/QSeal.assets.cache
+obj/Debug/net8.0/QSeal.csproj.AssemblyReference.cache
+obj/Debug/net8.0/QSeal.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/QSeal.GlobalUsings.g.cs
